@@ -1,8 +1,8 @@
 # Algorithm Analysis repository!
-Professor: Veronica Bagrin, Cristofor Fiștic
-Held at the Technical University of Moldova
-Spring semester, 2023
-Group: FAF-212
+Professor: Veronica Bagrin, Cristofor Fiștic  
+Held at the Technical University of Moldova  
+Spring semester, 2023  
+Group: FAF-212  
 
 ## Lab 1
 
