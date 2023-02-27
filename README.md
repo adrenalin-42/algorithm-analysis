@@ -14,3 +14,12 @@ Fibonacci number algorithm calculations. Here I compared 5 most popular algorith
 4.  Recursion with dynamic programming techniques
 5.  Matrix calculations
 
+## Lab 2
+
+Sorting algorithms calculations. I've compared 4 sorting algorithms:
+
+1.  Quick sort algorithm
+2.  Merge sort algorithm
+3.  Heap sort algorithm
+4.  Shell sort algorithm
+
